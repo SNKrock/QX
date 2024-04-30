@@ -10,7 +10,7 @@ TG频道群：https://t.me/py996
 使用声明：⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 *******************************
 [rewrite_local]
-^http[s]?:\/\/mobile.ktvme.com\/ url script-response-body https://github.com/SNKrock/JSON/blob/master/999.js
+^http[s]?:\/\/mobile.ktvme.com\/ url script-response-body https://github.com/SNKrock/QX/blob/main/km.js
 [mitm] 
 hostname = mobile.ktvme.com
 
